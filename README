@@ -1,0 +1,13 @@
+# Power BI Email Domain Analysis
+
+This project extracts domain names from customer emails and capitalizes them.
+
+## Steps Taken
+1. Duplicate Email column
+2. Extract text after `@`
+3. Remove `.com` and other suffixes
+4. Capitalize each word
+5. Apply & save
+
+## File
+- EmailDomainAnalysis.pbix
